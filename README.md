@@ -28,12 +28,6 @@ I enjoy transforming raw data into meaningful insights that drive better decisio
 
 ---
 
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" height="160"/>
-</p>
 
 ---
 
@@ -45,13 +39,5 @@ I enjoy transforming raw data into meaningful insights that drive better decisio
 
 👉 Check out more projects in my [repositories](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories).  
 
----
 
-## 📬 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/YOUR-LINKEDIN/)  
-[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:YOUR_EMAIL@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://YOUR-PORTFOLIO.com)  
-
----
-⭐️ From [Harish Suresh Babu](https://github.com/YOUR_GITHUB_USERNAME)
